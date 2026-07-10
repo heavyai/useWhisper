@@ -5,6 +5,9 @@
 This project enables the experimental speech to text feature in Heavy Immerse. 
 
 ## Security
+> [!WARNING]
+> Do not report security vulnerabilities through public GitHub issues!
+
 NVIDIA takes security seriously. If you discover a vulnerability in useWhisper, **DO NOT open a public issue**. Use one of the private reporting channels described in [SECURITY.md](https://github.com/heavyai/useWhisper/blob/main/SECURITY.md):
 
 ## Support
