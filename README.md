@@ -1,5 +1,6 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/heavyai/useWhisper/blob/main/LICENSE)
 [![Security](https://img.shields.io/badge/Security-Report%20a%20Vulnerability-red.svg)](https://github.com/heavyai/useWhisper/blob/main/SECURITY.md)
+[![GitHub Discussions](https://img.shields.io/badge/GitHub-Discussions-blue?logo=github)](https://github.com/orgs/heavyai/discussions)
 
 # useWhisper
 This project enables the experimental speech to text feature in Heavy Immerse. 
