@@ -13,6 +13,8 @@ NVIDIA takes security seriously. If you discover a vulnerability in useWhisper, 
 
 ## Support
 - Level: Experimental
+
+Join the [HeavyAI GitHub Discussions](https://github.com/orgs/heavyai/discussions) to ask questions, share feedback, and report issues. HeavyAI is an alpha project, so maintainers review issues, discussions, and pull requests on a best effort basis without guaranteed response timelines.
   
 ## License
 Apache 2.0. See [LICENSE](https://github.com/heavyai/useWhisper/blob/main/LICENSE).
